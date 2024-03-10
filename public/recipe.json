@@ -1,0 +1,92 @@
+[
+  {
+    "recipeName": "Spaghetti Bolognese",
+    "image": "https://i.ibb.co/kSWfN1k/Rectangle-20170-1.png",
+    "shortDescription": "Classic Italian pasta dish with savory meat sauce.",
+    "preparationTime": "30 minutes",
+    "ingredients": [
+      "500g ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can (400g) crushed tomatoes",
+      "1 tsp dried oregano",
+      "250g spaghetti"
+    ],
+    "totalCalories": "600 calories"
+  },
+  {
+    "recipeName": "Chicken Caesar Salad",
+    "image": "https://i.ibb.co/L1N1pNS/Rectangle-20170.png",
+    "shortDescription": "Fresh and crisp salad with grilled chicken and Caesar dressing.",
+    "preparationTime": "20 minutes",
+    "ingredients": [
+      "200g grilled chicken breast, sliced",
+      "Romaine lettuce, chopped",
+      "1/2 cup croutons",
+      "Parmesan cheese, grated",
+      "Caesar dressing",
+      "Lemon wedges"
+    ],
+    "totalCalories": "400 calories"
+  },
+  {
+    "recipeName": "Vegetarian Stir-Fry",
+    "image": "https://i.ibb.co/kQgbs0J/fresh-salad-with-turkey-eggs-vegetables-optimized.webp",
+    "shortDescription": "Colorful and nutritious stir-fry with assorted vegetables.",
+    "preparationTime": "25 minutes",
+    "ingredients": [
+      "2 cups broccoli florets",
+      "1 bell pepper, sliced",
+      "1 carrot, julienned",
+      "100g snap peas",
+      "150g tofu, cubed",
+      "3 tbsp soy sauce"
+    ],
+    "totalCalories": "350 calories"
+  },
+  {
+    "recipeName": "Grilled Salmon with Lemon",
+    "image": "https://i.ibb.co/10v2jny/italian-pasta-spaghetti-with-meatballs-parmesan-cheese-black-plate-dark-rustic-wood-background-dinne.webp",
+    "shortDescription": "Delicious and healthy grilled salmon fillets with a zesty lemon twist.",
+    "preparationTime": "15 minutes",
+    "ingredients": [
+      "4 salmon fillets",
+      "1 lemon, sliced",
+      "2 tbsp olive oil",
+      "1 tsp dill",
+      "Salt and pepper to taste",
+      "Fresh parsley for garnish"
+    ],
+    "totalCalories": "450 calories"
+  },
+  {
+    "recipeName": "Mushroom Risotto",
+    "image": "https://i.ibb.co/8P270LF/juicy-delicious-meat-cutlets-dark-table-russian-cuisine-optimized.webp",
+    "shortDescription": "Creamy and flavorful Italian risotto with mushrooms.",
+    "preparationTime": "35 minutes",
+    "ingredients": [
+      "1 cup Arborio rice",
+      "200g mushrooms, sliced",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup white wine",
+      "4 cups vegetable broth"
+    ],
+    "totalCalories": "500 calories"
+  },
+  {
+    "recipeName": "Homemade Margherita Pizza",
+    "image": "https://i.ibb.co/wpwgV6N/meatballs-sweet-sour-tomato-sauce-optimized.jpg",
+    "shortDescription": "Classic pizza with tomato, mozzarella, and fresh basil.",
+    "preparationTime": "40 minutes",
+    "ingredients": [
+      "Pizza dough",
+      "1 cup tomato sauce",
+      "200g mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Salt and pepper to taste"
+    ],
+    "totalCalories": "700 calories"
+  }
+]
