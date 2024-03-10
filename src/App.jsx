@@ -61,7 +61,7 @@ function App() {
       <Navbar></Navbar>
 
       <Banner></Banner>
-      <div className="grid grid-cols-1 md:grid-cols-3 my-20">
+      <div className="grid grid-cols-1 md:grid-cols-3 mb-20 mt-24">
         <div className="md:col-span-2">
           <Recipes
             recipes={recipes}
@@ -70,8 +70,8 @@ function App() {
             handleWantToCook={handleWantToCook}
             handleCooking={handleCooking}></Recipes>
         </div>
-        <>
-          <SideBar
+        <div className="mt-28">
+          <SideBar 
             // readTime={readTime}
             recipes={recipes}
             count={count}
@@ -83,7 +83,7 @@ function App() {
             setCount2={setCount2}
             setCount={setCount}
             setIsWantToCook={setIsWantToCook}></SideBar>
-        </>
+        </div>
       </div>
       <ToastContainer />
     </div>

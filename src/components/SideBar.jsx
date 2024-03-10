@@ -31,7 +31,7 @@ const SideBar = ({
     totalCalories += parseFloat(isCooking[i].totalCalories) || 0;
   }
   return (
-    <div className="border-2 p-2 h-1/2">
+    <div className="border-2 p-2 h-auto">
       <div className="text-center">
         <p className="font-bold text-xl mb-4 mt-4">Want to cook: {count}</p>
 
